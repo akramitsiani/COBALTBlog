@@ -2,7 +2,7 @@
 name: COBALT PROJECT BLOG
 baseurl: /COBALTBlog
 
-avatar: ./images/logo-palantir.png
+avatar: ./images/COBALT-Final-logo.jpg
 
 permalink: /:title/
 
