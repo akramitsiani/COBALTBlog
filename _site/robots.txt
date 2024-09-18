@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/PalantirBlog/sitemap.xml
+Sitemap: http://localhost:4000/COBALTBlog/sitemap.xml
